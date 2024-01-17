@@ -1,0 +1,7 @@
+id,cust_name,father,gender,post,mobile,email,nationality,address,id_proof,id_number
+3622,John Doe,John Sr.,Male,123231,1234567890,johndoe@example.com,American,"123 Main St, Anytown, USA",Passport,P1234567
+6545,Jane Smith,Mr. Smith,Female,123321,0987654321,janesmith@example.com,British,"456 Elm St, Londontown, UK",Driver's License,D7654321
+8114,Alice Johnson,Mrs. Johnson,Female,123321,1122334455,alicejohnson@example.com,Canadian,"789 Maple Ave, Toronto, Canada",National ID,N1122334
+6276,Bob Brown,Mr. Brown,Male,123321,5544332211,bobbrown@example.com,Australian,"321 Oak Rd, Sydney, Australia",Voter ID,V4455667
+1231,Carol White,Whites,Female,123321,6677889900,carolwhite@example.com,New Zealander,"654 Pine St, Wellington, New Zealand",Social Security,S9988776
+6830,Nurin jazlina,Johri,Male,26700,01127889843,nurinjazlina@gmail.com,Malay,pahang,Identification Card,040212060088
